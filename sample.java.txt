@@ -8,5 +8,6 @@ int main() {
    printf("Hello, World!");
    printf("Hello, naveen!");
    printf("Hello, branch!");
+printf("Hello, tel!");
    return 0;
 }
